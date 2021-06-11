@@ -2,7 +2,9 @@
   "name": "color-clock",
   "version": "1.0.0",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo 'Hello World!'"
